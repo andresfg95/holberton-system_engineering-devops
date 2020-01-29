@@ -1,2 +1,3 @@
 #!/bin/bash
-strings -t d0 HOLBERTON
+strings --radix=0 HOLBERTON
+
