@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -lkkk
+ls -l
