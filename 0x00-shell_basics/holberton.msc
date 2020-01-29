@@ -1,2 +1,2 @@
 #!/bin/bash
-strings -Cd offset 0 HOLBERTON
+strings --radix=0 HOLBERTON
