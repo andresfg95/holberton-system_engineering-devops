@@ -1,3 +1,2 @@
 #!/bin/bash
 strings --radix=0 HOLBERTON
-
